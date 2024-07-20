@@ -32,23 +32,24 @@ h1{
     z-index: 3;
     transform:translate(-50%,-50%)rotate(-15deg) ;
     background-color: aquamarine;
+    width: 220px;
 }
 #card3{
     z-index: 2;
     background-color: blue;
     transform:translate(-50%,-50%)rotate(-40deg) ;
+    width: 240px;
 }
 #card4{
     z-index: 1;
     background-color: blueviolet;
     transform:translate(-50%,-50%)rotate(-70deg) ;
+    width: 260px;
 }
 #card1{
     z-index: 4;
     background-color: burlywood;
-    transform:translate(-50%,-50%)rotate(7deg) ;
-    width: 20vw;
-    height: 50vh;
+    transform:translate(-50%,-50%)rotate(0deg) ;
 }
 img{
     width: 100%;
